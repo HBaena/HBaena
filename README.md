@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+|||
+|---|---|
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=HBaena&show_icons=true&hide_border=true&theme=vue) | ![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HBaena&layout=compact&hide_border=true&theme=vue) |
+|||
+
+## My Social Profile
+<a href="https://www.facebook.com/adanhbaena/">
+    <img style="margin-right:10px" align="left" alt="facebook" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />    
+</a>
+<a href="https://www.linkedin.com/in/hbaena~/">
+    <img style="margin-right:10px" align="left" alt="linkedin" width="29px" src="https://masempresas.cea.es/wp-content/uploads/2018/11/LINKEDIN.png" />    
+</a>
+<br>
+
+## About me
+
+- 🔭 I’m currently working on [GeoVirtual AC de CV](https://www.geovirtual.info/)
+- 👯 I’m looking to collaborate on Data science, ML, Backend and Scientific programming
+
+
 <!--
 **HBaena/HBaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
