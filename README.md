@@ -13,6 +13,7 @@
     <img style="margin-right:10px" align="left" alt="linkedin" width="29px" src="https://masempresas.cea.es/wp-content/uploads/2018/11/LINKEDIN.png" />    
 </a>
 <br>
+
 ## Skills
 - :snake: I'm a Python enthusiastic
 - :blue_book: I'm enojoy to learn new techs
