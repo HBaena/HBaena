@@ -19,7 +19,7 @@
 - :blue_book: I'm enojoy to learn new techs
 ## About me
 
-- 🔭 I’m currently working on [GeoVirtual AC de CV](https://www.geovirtual.info/)
+- 🔭 I’m currently working on Truehome
 - 👯 I’m looking to collaborate on Data science, ML, Backend and Scientific programming
 - 🌱 I’m currently learning FastAPI, Dash and Boostrap
 
