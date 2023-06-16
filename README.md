@@ -19,9 +19,8 @@
 - :blue_book: I'm enojoy to learn new techs
 ## About me
 
-- 🔭 I’m currently working on Truehome
 - 👯 I’m looking to collaborate on Data science, ML, Backend and Scientific programming
-- 🌱 I’m currently learning FastAPI, Dash and Boostrap
+- 🌱 I’m currently learning FastAPI, Go and improving my AWS skills
 
 
 <!--
